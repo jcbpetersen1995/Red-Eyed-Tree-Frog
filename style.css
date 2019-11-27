@@ -1,0 +1,31 @@
+img {
+    border: 3px outset orangered;
+    padding:2px;
+    flow: left;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(14, 88, 48);
+    flow: right;
+}
+
+body {
+    background: linear-gradient(-45deg, aqua, green, yellowgreen, linen);
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(14, 88, 48);
+    
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(14, 88, 48);
+}
+
+#facts {
+    flow: right;
+}
